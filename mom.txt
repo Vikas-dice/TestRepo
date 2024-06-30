@@ -1,0 +1,28 @@
+
+
+git - software /tool
+- version controlling tool
+
+
+github - website - remotelyu- code - store, share , co
+
+
+software/webseite/app - 
+
+
+
+
+commit - save krna
+repo/repository - remote folder 
+fork - complete copy 
+branch --?
+
+
+
+
+
+
+
+
+
+
